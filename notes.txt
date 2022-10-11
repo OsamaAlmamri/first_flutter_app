@@ -1,0 +1,1 @@
+flutter packages get === to ensure all packages in yaml is exist
